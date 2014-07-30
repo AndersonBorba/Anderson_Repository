@@ -45,7 +45,7 @@
     <Compile Include="Logica\Main.cs" />
     <Compile Include="Logica\Numeros.cs" />
     <Compile Include="Logica\Piramide.cs" />
-    <Compile Include="Logica\TestPullGitHub.cs" />
+    <Compile Include="Logica\Numero.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

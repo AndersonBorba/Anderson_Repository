@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tea.Logica
 {
-    class TestPullGitHub
+    class Numero
     {
         public void imprimeNumeroDe1a100()
         {

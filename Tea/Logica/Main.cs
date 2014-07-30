@@ -11,7 +11,7 @@ namespace Tea.Logica
         static void Main(string[] args)
         {
             ImprimeNome nome = new ImprimeNome();
-            Numeros numero = new Numeros();
+            Numero numero = new Numero();
             Piramide piramide = new Piramide();
             int i = 20;
 
