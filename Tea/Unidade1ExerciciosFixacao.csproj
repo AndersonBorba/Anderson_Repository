@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Logica\Carro.cs" />
     <Compile Include="Logica\ImprimeNome.cs" />
     <Compile Include="Logica\Main.cs" />
     <Compile Include="Logica\Piramide.cs" />
