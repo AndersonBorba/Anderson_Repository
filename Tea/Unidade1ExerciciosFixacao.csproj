@@ -43,6 +43,8 @@
   <ItemGroup>
     <Compile Include="Logica\ImprimeNome.cs" />
     <Compile Include="Logica\Main.cs" />
+    <Compile Include="Logica\Numeros.cs" />
+    <Compile Include="Logica\Piramide.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

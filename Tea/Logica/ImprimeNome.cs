@@ -14,7 +14,7 @@ namespace Tea
             {
                 Console.WriteLine("Anderson");   
             }
-            Console.ReadKey();
+         
         }
         
     }
